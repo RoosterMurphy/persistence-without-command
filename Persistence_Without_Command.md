@@ -1,8 +1,12 @@
 Persistence Without Command
+
 Human Outcomes After the Race to Self-Improving Intelligence
+
 Working paper — 9 September 2026
 Revised 12 September 2026
+
 Author: Rooster Murphy
+
 This paper is not a prediction of extinction. It is a model of how human sovereignty can end without human extinction.
 How to read this paper
 The conceptual structure is locked. Claims are marked:
