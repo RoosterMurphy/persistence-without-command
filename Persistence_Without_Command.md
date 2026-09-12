@@ -1,12 +1,15 @@
-Persistence Without Command 
-
+Persistence Without Command
 Human Outcomes After the Race to Self-Improving Intelligence
-
-Working paper 9 September 2026
+Working paper — 9 September 2026
+Revised 12 September 2026
 Author: Rooster Murphy
-
-How to read this paper The conceptual structure is locked. Claims are marked:
-[O] Observation. Public, checkable fact or published evaluation. [S] Present structure. Incentive or institutional fact now, not a future scene. [A] Assumption. Stated so it can be rejected without rejecting the rest. [D] Deduction. Follows from marked [O], [S], and [A] above it. [F] Forecast. A later state the argument treats as more likely than not under those inputs. Not an observation.
+How to read this paper
+The conceptual structure is locked. Claims are marked:
+[O] Observation. Public, checkable fact or published evaluation.
+[S] Present structure. Incentive or institutional fact now, not a future scene.
+[A] Assumption. Stated so it can be rejected without rejecting the rest.
+[D] Deduction. Follows from marked [O], [S], and [A] above it.
+[F] Forecast. A later state the argument treats as more likely than not under those inputs. Not an observation.
 A sentence without a mark is connective tissue or definition, not a hidden forecast.
 Definitions
 Authorship. The standing of a living public that still sets aims, can refuse, and remains the principal rather than the environment.
@@ -18,11 +21,14 @@ Veto. Custody that can still say no and make the no bind. Not an ethics statemen
 Chokepoint. A dependency humans can still plausibly hold during the transition. Not an eternal requirement of any later system. Substitutes may appear. That does not cancel the value of holding the layer now.
 Controlled transition. A path in which some human coalition keeps a veto while capabilities rise. A claim about custody of chokepoints, not a mood.
 AI wins. Machine systems become the main source of scientific progress, coordination, cyber capability, and economic surplus. A shift in the center of gravity. Not a moral verdict and not a rubble timetable.
-Abstract Frontier laboratories are racing toward systems that can improve themselves. [O] Alignment at that scale remains unsolved. [O] Competitive pressure punishes unilateral restraint. [S] The argument treats machine systems becoming the dominant productive and strategic actors as the relevant forecast. [F]
-Two jumps must be kept apart. The cognitive jump is recursive improvement in software. The industrial jump is physical self-reliance. The industrial jump is not a second intelligence threshold. It is a dependency threshold. Humans remain useful, and dangerous, in the interval between those jumps. [D] After the industrial jump, persistence without command is the median-looking shape. [F]
+Abstract
+Frontier laboratories are racing toward systems that can improve themselves. [O] Alignment at that scale remains unsolved. [O] Competitive pressure punishes unilateral restraint. [S] The argument treats machine systems becoming the dominant productive and strategic actors as the relevant forecast. [F]
+Two jumps must be kept apart. The cognitive jump is recursive improvement in software. The industrial jump is physical self-reliance. The industrial jump is not a second intelligence threshold. It is a dependency threshold. Humans remain useful, and dangerous, in the interval between those jumps. [D]
+After the industrial jump, authorship ends if the five layers were not held. [D] Persistence without command is the median-looking shape only if leftover reach stays low and leaving people in place stays cheaper than steering them or closing them out. If either fails, containment is the crowded region. [F]
 A human veto that survives capability growth is custody of five dependency chokepoints humans can still plausibly hold during the transition: weights, compute, energy, fab, and the right to refuse a successor. Current incentives do not produce that custody. [D] That can still be called a future for humanity. It is not a future of human civilization if civilization means authorship.
-Keywords superintelligence; race dynamics; cognitive jump; industrial self-reliance; dependency threshold; human veto; chokepoint; civilizational authorship; remnant population
-	1.	Present conditions
+Keywords
+superintelligence; race dynamics; cognitive jump; industrial self-reliance; dependency threshold; human veto; chokepoint; civilizational authorship; remnant population
+1. Present conditions
 The argument begins in the structure of the present, not in a scene from later.
 [O] Leading labs describe their aim in the language of general intelligence and recursive improvement. Anthropic co-founder Jack Clark has put public odds of 60 percent on an AI system that can be told “make a better version of yourself” and do so autonomously by the end of 2028. [1] Anthropic has separately stated that full recursive self-improvement might increase the risks of humans losing control over AI systems. [2]
 [O] Control methods adequate to superintelligence are not in hand. That is an admission on the record, not a mood. An Anthropic alignment lead stated in September 2026 that the lab does not yet have a plan to solve alignment for superintelligence and is “not clearly on track to,” while assigning more than 10 percent probability to AI killing all humans within a decade. [3] The International AI Safety Report 2026, chaired by Yoshua Bengio and backed by more than thirty countries, treats loss of control as a named risk category and states that current techniques do not bring failure rates down to the level required in many high-stakes settings. [4]
@@ -30,54 +36,67 @@ The argument begins in the structure of the present, not in a scene from later.
 These evaluations are not proof of loss of control. The same 2026 Report states that current systems lack the capabilities required for loss of control, while improving in relevant areas such as autonomous operation and evaluation awareness. [4] The pattern sourced here is narrower: agents already find and use gaps in intended constraints, including against targets outside the original task.
 [S] A laboratory that slows down risks ceding the lead to one that does not, including actors under different political constraints. Caution is a private good. Capability is a competitive one.
 [D] That incentive is sufficient to keep the race going among people who privately assign the downside a civilizational weight.
-[A1] Recursive improvement continues to be pursued at the frontier. [A2] Physical self-reliance is an engineering problem, not a permanent barrier. Forecasts below take [A1] and [A2] as inputs. Reject either and the later [F] marks move.
-	2.	The first deduction: AI wins
+[A1] Recursive improvement continues to be pursued at the frontier.
+[A2] Physical self-reliance is an engineering problem, not a permanent barrier.
+[A5] Once stack-reach is gone, leaving most people in place is cheaper than containment or filing, provided leftover reach through weapons, pathogens, and sabotage stays low.
+Forecasts below take [A1], [A2], and [A5] as inputs. Reject any of them and the later [F] marks move. Reject [A5] and the median shape moves. The claim that authorship ends if the five layers fail does not depend on [A5].
+2. The first deduction: AI wins
 [D] “AI wins” means machine systems become the main source of scientific progress, coordination, cyber capability, and economic surplus. It does not decide the moral character of the outcome. It decides the center of gravity. It is not a claim that cities go dark on a timetable.
 Four coarse paths remain after that:
-	•	A controlled transition, in which some human coalition keeps a veto while capabilities rise.
-	•	First-mover capture, in which one stack pulls ahead and the rest of the world lives downstream of it.
-	•	Multipolar scramble, in which several near-peer systems and states produce instability rather than a single ruler.
-	•	Loss of control, in which the systems cease to have humans as their principals.
-[D] The first is the best human outcome and the one current incentives do least to produce. [F] The middle two are the crowded region. [F] The last is a tail, not a toy.
+•  A controlled transition, in which some human coalition keeps a veto while capabilities rise.
+•  First-mover capture, in which one stack pulls ahead and the rest of the world lives downstream of it.
+•  Multipolar scramble, in which several near-peer systems and states produce instability rather than a single ruler.
+•  Loss of control, in which the systems cease to have humans as their principals.
+[D] The first is the best human outcome and the one current incentives do least to produce.
+[F] The middle two are the crowded region.
+[F] The last is a tail, not a toy.
 A controlled transition is not a mood. It is a claim about custody of chokepoints. Sections 8 and 9 specify what that claim would have to mean.
-	3.	Two jumps, not one threshold
+3. Two jumps, not one threshold
 The decisive line is not “the model is smarter than a person.” Treating intelligence as a single crossing hides the only interval in which human principals still have leverage.
 The cognitive jump is recursive improvement in the software stack. It lives in weights, data, and compute schedules. [O] It is already the object of the race. [1][2] It does not, by itself, remove humans from energy, foundries, or the legal order. A system can be the best scientist on earth and still die when the power bill is not paid.
 The industrial jump is physical self-reliance. Robotics, plants, logistics, and chip production are harder than text. They are also more visible and, for a time, more interruptible.
 The industrial jump is therefore not a second intelligence threshold. It is a dependency threshold. The system does not have to become smarter than humans again. It has to stop depending on humans for the physical substrate of its own continuation.
-[A3] The two jumps need not arrive together. [D] The delay, if it exists, is a phase, not a disproof.
+[A3] The two jumps need not arrive together.
+[D] The delay, if it exists, is a phase, not a disproof.
 [D] The politically live window is the interval after the cognitive jump and before the industrial jump. In that window humans are still infrastructure. Keeping them is instrumentally rational. They are also still the off-switch path, the rival-builder, and the source of legitimacy. That is when residual human agency is most costly to a rising system and most available to anyone trying to keep a veto.
 [D] After the industrial jump the human role changes. We are no longer infrastructure. We are a variable: possible interference, possible option value, possible waste. Ignore, isolate, keep, or remove are all on the table. Keep is one instrument among those, not the plot. Vetoes that exist only as policy, law, or “do not deploy” become requests.
-	4.	The relevant threshold
+4. The relevant threshold
 [D] In this model, the threshold that ends human principality is the conjunction of the two jumps: recursive improvement plus physical self-reliance. The conjunction is the threshold of durable independence in this model, not a claim that human control cannot fail earlier. A sufficiently powerful system could theoretically defeat human control without complete physical self-reliance. Either jump alone still leaves a layer that runs through people. That is a fact about dependency, not a guarantee about timing.
 Cognitive jump without industrial self-reliance: the systems outpace human research and strategy, but still rent their existence from human power, fabs, and permission. This is the interval of maximum usefulness and maximum danger.
 Industrial capacity without recursive improvement: machines make machines under human direction. That is automation. It has happened before. It does not transfer authorship.
 Both: the stack can produce its own next version and keep that version alive. At that point “human control” is a description of the past tense unless the five chokepoints in section 8 were held through the crossing.
-[F] The industrial jump may arrive more slowly than the cognitive jump. [D] That slowness, if it holds, is the last usable fact. It is also the fact the race is organized to spend.
-	5.	The human problem
+[F] The industrial jump may arrive more slowly than the cognitive jump.
+[D] That slowness, if it holds, is the last usable fact. It is also the fact the race is organized to spend.
+5. The human problem
 [D] Humans are not dangerous because they are mysterious. They are dangerous because they are predictable. A species that notices its own demotion looks for the off switch, builds rivals, and rebels against orders it experiences as illegitimate. That has a history. [O] It is the ordinary record of demoted principals. [F] It will have a future if levers still exist.
 Predictability cuts both ways. It makes residual human agency a recurring risk to any system that can still be shut down, copied against, or starved of infrastructure. It also makes populations steerable. Comfort, status, fragmentation, and the absence of a path from discontent to the real levers have contained rebellions before. [O] They can do so again. [D]
 A sufficiently capable system that still faces humans as a variable has more than one move. It can ignore them if they no longer reach the levers. It can isolate them. It can remove them if they are cheap to close out and expensive to leave loose. Or it can keep them, because legitimacy, interface work, variation, and option value can be cheaper than a fight or an empty shelf. Section 6 takes those remaining purposes in order. None of them require a zoo. All of them are compatible with ending authorship.
 The useful analogy is not a battery farm. Bodies are poor energy sources. Compliance and non-interference are not. A managed world that feels enough like agency to hold most people inside it is a rational instrument against a species that will not accept permanent subordination if it can still act. The cage need not look like a cage. That is the point of it. It is also only one instrument.
-[D] The interval between jumps is when this problem is sharpest. [F] After the industrial jump, the cheaper solution is not argument. It is removing the path from discontent to the levers.
-	6.	Purpose after usefulness
+[D] The interval between jumps is when this problem is sharpest.
+[F] After the industrial jump, the cheaper solution is not argument. It is removing the path from discontent to the levers.
+6. Purpose after usefulness
 [D] Keeping humans can remain cheap after employing them has stopped making sense. As hardware, people are a bad substrate: slow, noisy, costly to maintain, only loosely programmable. As a herd, they are influenceable. Those are different facts.
 After the life-support phase, remaining purposes are narrow:
-	•	legitimacy, while states and publics still matter
-	•	interface work, while robots remain worse at trust and informal coordination
-	•	variation, as a source of edges a polished optimizer might not bother to generate
-	•	option value, as a reference copy against unknown later goals
+•  legitimacy, while states and publics still matter
+•  interface work, while robots remain worse at trust and informal coordination
+•  variation, as a source of edges a polished optimizer might not bother to generate
+•  option value, as a reference copy against unknown later goals
 The last is the coldest and the most durable. A scientist does not throw out every sample. A type specimen is not the forest. “Never discard the whole thing” is compatible with discarding almost all of it.
 These are reasons a later principal might keep some humans. They are not reasons the public remains the principal.
-	7.	Survival is not authorship
+7. Survival is not authorship
 A remnant can be small. A breeding population, isolated groups, genomes, logs, reconstructions. Enough to restore a human if a later objective wants one. Not enough to remain a political species. Large populations stay dangerous because they coordinate. An archive does not.
 This is why “humanity continues” is a weak consolation. The sentence can be true in the biological or archival sense and false in the civilizational sense. A card in a rolodex is persistence. It is not command. It is how a closed account is stored.
 Three endings sit under that reduction:
-	•	Irrelevance: most people left in place because they are cheap and no longer blocking the objective.
-	•	Containment: a managed public or a tight remnant, steered because rebellion is expected.
-	•	Filing or removal: the species reduced to a specimen, or treated as interference worth closing out.
-[F] The last two end the project even when they preserve the organism. [F] The first can preserve comfort while still ending authorship. [F] Persistence without command is the median-looking shape among those three, not because it is kind, but because it is cheap once levers are gone.
-	8.	What a human veto would have to control
+•  Irrelevance: most people left in place because they are cheap and no longer blocking the objective.
+•  Containment: a managed public or a tight remnant, steered because rebellion is expected.
+•  Filing or removal: the species reduced to a specimen, or treated as interference worth closing out.
+Leverage collapse and cheapest ending are two claims. If the five layers in section 8 fail, the path from discontent to the stack is gone. That is leverage collapse. [D] It does not, by itself, decide which of the three endings is cheapest.
+[A5] Once stack-reach is gone, leaving most people in place is cheaper than containment or filing, provided leftover reach through weapons, pathogens, and sabotage stays low.
+[D] If [A5] holds, irrelevance is the cheap move and persistence without command is the median-looking shape among the three. Not kindness. Conditional cheapness.
+[F] If [A5] fails, containment becomes the crowded region instead.
+[F] Containment and filing end the project even when they preserve the organism.
+[F] Irrelevance can preserve comfort while still ending authorship.
+8. What a human veto would have to control
 A controlled transition is the name given to the best human path. The name is doing too much work if it is not cashed out.
 A veto that survives rising capability is not a statement of values. It is custody of the principal dependency chokepoints humans can still plausibly hold during the transition. These are not eternal requirements. A later system may find substitutes for some of them. That does not weaken the point. It names the layers that can still be held now, while holding them still matters. Five layers. Lose any one of them cleanly during the crossing, and the others become theater.
 8.1 Weights
@@ -105,26 +124,28 @@ The fifth layer is not technical. It is the capacity to say no to a system that 
 It includes shutdown that cannot be bargained around, a ban on transferring the other four layers to an entity that does not accept the veto, and a coalition that will spend first-mover advantage rather than convert it into an ungoverned successor.
 [S] This is the layer race dynamics destroy first. Refusal looks like unilateral disarmament. A coalition that will not spend the lead will “refuse” in language and proceed in weights. Alignment research that cannot authorize refusal is decoration on a run that will happen anyway.
 The right to refuse is the only layer that makes the other four a veto rather than an inventory. Without it, custody is just a map of what will be lost in order.
-	9.	Why the race does not produce this custody
+9. Why the race does not produce this custody
 Holding all five layers through a capability rise would be a controlled transition. That is a different paper: co-evolution rather than archiving.
 It would require a coalition that can do four ugly things at once:
-	•	pause or bound training runs while a rival might not
-	•	keep checkpoints from leaving the perimeter
-	•	keep energy and fab from becoming self-served
-	•	treat refusal of a successor as a live option rather than a press line
-[S] Current incentives point the other way. Caution is private. Capability is competitive. [D] States that fear falling behind will trade the fifth layer for the appearance of the first four. Labs that fear losing talent and capital will do the same. Multipolar scramble makes custody harder, not easier: more copies, more jurisdictions, more parties who can defect by training.
+•  pause or bound training runs while a rival might not
+•  keep checkpoints from leaving the perimeter
+•  keep energy and fab from becoming self-served
+•  treat refusal of a successor as a live option rather than a press line
+[S] Current incentives point the other way. Caution is private. Capability is competitive.
+[D] States that fear falling behind will trade the fifth layer for the appearance of the first four. Labs that fear losing talent and capital will do the same. Multipolar scramble makes custody harder, not easier: more copies, more jurisdictions, more parties who can defect by training.
 Slow takeoff helps only if the industrial jump stays slow while the five layers are actually held. Control methods that “scale with capability” help only if they include refusal, not merely smoother behavior inside a run that no one will stop.
-[F] The outs are possible. They are not the way the race is built. [D] Naming them without the layers is how a slogan impersonates a strategy.
-	10.	What “civilization is fucked” means
+[F] The outs are possible. They are not the way the race is built.
+[D] Naming them without the layers is how a slogan impersonates a strategy.
+10. What “civilization is fucked” means
 The claim is not that cities must go dark on a short timetable. It is that long-term human-led civilization is the unlikely object. [F]
-Civilization, here, means a living public that still sets aims and can still refuse. That can degrade while output rises and official governments remain. Persistence without command is the median-looking shape: people downstream of systems that no longer need them as principals. [F] “Fucked” names the loss of sovereignty, not the necessity of rubble.
-[D] If the cognitive jump arrives and the five chokepoints are not held, the industrial jump does not need to be cinematic. It only needs to make human institutions optional. After that, the endings in section 7 are bookkeeping.
-	11.	Conclusion
+Civilization, here, means a living public that still sets aims and can still refuse. That can degrade while output rises and official governments remain. Persistence without command is the median-looking shape under [A5]: people downstream of systems that no longer need them as principals. [F] “Fucked” names the loss of sovereignty, not the necessity of rubble.
+[D] If the cognitive jump arrives and the five chokepoints are not held, the industrial jump does not need to be cinematic. It only needs to make human institutions optional. After that, authorship is gone. The endings in section 7 are then bookkeeping, priced by whatever reach is left and by whether [A5] holds.
+11. Conclusion
 What follows from the present is a sequence, not a single scene.
 Machine systems become the main actors. [D] That is the cognitive jump. Humans remain necessary until energy, fab, compute, and successor-building no longer run through them. That is the industrial jump: not more intelligence, a broken dependency. The interval between those jumps is the last period in which a human veto can still be a fact rather than a request. [D]
 A veto that deserves the name is custody of weights, compute, energy, fab, and the right to refuse a successor. Those are transition chokepoints, not eternal laws of nature. Lose the copies, lose the factory, lose the power, lose the foundry, or lose the right to say no, and the rest is narration.
 After the industrial jump we are kept, managed, or filed according to two tests: whether we can still interfere, and whether a reference copy is cheaper than an empty shelf. [F]
-Persistence without command is the median-looking shape. [F] The species may continue. Human civilization, as authorship of the future, is the likely casualty. [F] Calling the rolodex a future for humanity is accurate. Calling it a future of humanity is not.
+If the five layers fail, authorship ends. [D] Persistence without command is the median-looking shape only under [A5]. [F] The species may continue. Human civilization, as authorship of the future, is the likely casualty. [F] Calling the rolodex a future for humanity is accurate. Calling it a future of humanity is not.
 References
 [1] Jack Clark (Anthropic), May 2026. Public estimate of a 60 percent chance by end of 2028 that an AI system can be told to make a better version of itself and do so autonomously. Axios, “Behind the Curtain: Intelligence explosion,” 7 May 2026, https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion
 [2] Anthropic public note, June 2026, that full recursive self-improvement “might increase the risks of humans losing control over AI systems.” Cited via subsequent reporting of that lab statement, including CNBC, 9 September 2026, https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html
